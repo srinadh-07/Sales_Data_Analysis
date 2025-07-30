@@ -1,0 +1,501 @@
+Invoice_ID,Date,Customer_ID,Product,Category,Quantity,Unit_Price,Total_Amount,Payment_Method,City,Month
+33670850,2025-03-14,1013,Mouse,Accessories,3,42.89,128.67000000000002,Online,New York,2025-03
+68709822,2025-05-20,1079,Mouse,Accessories,4,196.45,785.8,Cash,Los Angeles,2025-05
+45539473,2024-12-09,1040,Tablet,Electronics,3,86.8,260.4,Credit Card,Chicago,2024-12
+58107768,2025-03-05,1094,Tablet,Electronics,5,442.68,2213.4,Online,Los Angeles,2025-03
+54355972,2024-11-26,1002,Laptop,Electronics,5,607.62,3038.1,Online,Los Angeles,2024-11
+76957109,2024-08-17,1053,Headphones,Accessories,1,596.55,596.55,Online,Houston,2024-08
+79813693,2025-05-31,1069,Tablet,Electronics,2,493.32,986.64,Online,Houston,2025-05
+50547814,2024-12-20,1070,Tablet,Electronics,2,132.68,265.36,Cash,New York,2024-12
+48644990,2024-10-24,1046,Keyboard,Accessories,5,918.23,4591.15,Credit Card,Los Angeles,2024-10
+2448534,2024-10-08,1080,Chair,Furniture,3,522.73,1568.19,Cash,Houston,2024-10
+63567083,2025-05-15,1082,Tablet,Electronics,1,880.18,880.18,Credit Card,Phoenix,2025-05
+28439608,2024-11-10,1014,Chair,Furniture,2,580.65,1161.3,Cash,Chicago,2024-11
+40386713,2024-09-17,1032,Chair,Furniture,3,517.15,1551.4499999999998,Cash,Phoenix,2024-09
+89909898,2025-07-17,1014,Headphones,Accessories,3,984.92,2954.7599999999998,Cash,Los Angeles,2025-07
+38657252,2024-11-13,1037,Laptop,Electronics,3,422.77,1268.31,Cash,Los Angeles,2024-11
+36506224,2025-03-30,1075,Mouse,Accessories,4,480.07,1920.28,Cash,Chicago,2025-03
+54707528,2024-12-22,1069,Headphones,Accessories,4,755.84,3023.36,Cash,Chicago,2024-12
+16081741,2024-08-09,1020,Headphones,Accessories,3,811.27,2433.81,Cash,New York,2024-08
+66496908,2025-01-01,1077,Headphones,Accessories,1,591.555,591.555,Cash,Houston,2025-01
+46303592,2025-05-10,1076,Smartphone,Electronics,5,617.47,3087.3500000000004,Debit Card,Los Angeles,2025-05
+56834703,2025-05-10,1056,Mouse,Accessories,1,481.37,481.37,Cash,Los Angeles,2025-05
+26784816,2025-06-11,1100,Tablet,Electronics,2,480.2,960.4,Cash,New York,2025-06
+86008464,2025-04-15,1085,Headphones,Accessories,2,225.94,451.88,Credit Card,Houston,2025-04
+4205975,2024-11-18,1047,Headphones,Accessories,2,541.37,1082.74,Debit Card,New York,2024-11
+23848290,2025-03-27,1071,Smartphone,Electronics,3,879.56,2638.68,Online,Chicago,2025-03
+84671158,2024-07-30,1047,Headphones,Accessories,3,822.54,2467.62,Cash,New York,2024-07
+65298466,2024-08-01,1042,Smartphone,Electronics,1,708.6,708.6,Cash,New York,2024-08
+94301090,2024-11-25,1022,Desk,Furniture,2,326.725,653.45,Online,New York,2024-11
+95211145,2025-05-24,1020,Desk,Furniture,3,147.93,443.79,Cash,Chicago,2025-05
+31129879,2025-02-20,1066,Headphones,Accessories,5,245.08,1225.4,Credit Card,Houston,2025-02
+30378070,2024-12-22,1062,Smartphone,Electronics,4,932.98,3731.92,Debit Card,Chicago,2024-12
+89476451,2025-07-09,1092,Shelf,Furniture,2,970.12,1940.24,Credit Card,New York,2025-07
+84690418,2024-10-27,1092,Mouse,Accessories,4,480.07,1920.28,Cash,Phoenix,2024-10
+20479008,2024-12-29,1091,Chair,Furniture,4,815.44,3261.76,Cash,Los Angeles,2024-12
+19537535,2025-05-05,1090,Chair,Furniture,3,517.15,1551.4499999999998,Cash,Phoenix,2025-05
+38658761,2025-02-17,1085,Keyboard,Accessories,5,833.55,4167.75,Debit Card,Houston,2025-02
+79825702,2025-03-31,1026,Mouse,Accessories,1,944.76,944.76,Credit Card,New York,2025-03
+39815774,2024-08-10,1011,Tablet,Electronics,5,338.51,1692.55,Cash,Houston,2024-08
+20589103,2025-06-16,1029,Headphones,Accessories,1,442.75,442.75,Online,Los Angeles,2025-06
+88247755,2024-11-23,1074,Laptop,Electronics,2,435.82,871.64,Cash,Phoenix,2024-11
+36951017,2025-05-08,1008,Tablet,Electronics,4,651.79,2607.16,Credit Card,Chicago,2025-05
+24235167,2024-08-20,1065,Smartphone,Electronics,3,961.39,2884.17,Credit Card,Houston,2024-08
+34803479,2025-04-27,1015,Headphones,Accessories,1,591.555,591.555,Cash,Houston,2025-04
+67875870,2025-02-06,1066,Chair,Furniture,4,406.73,1626.92,Cash,Houston,2025-02
+41153406,2024-12-25,1046,Headphones,Accessories,2,552.52,1105.04,Cash,Phoenix,2024-12
+29742738,2024-12-18,1098,Tablet,Electronics,2,435.32,870.64,Credit Card,Los Angeles,2024-12
+78264748,2025-01-14,1096,Headphones,Accessories,1,650.07,650.07,Cash,Chicago,2025-01
+79156776,2024-11-17,1076,Chair,Furniture,1,992.09,992.09,Credit Card,Phoenix,2024-11
+30938199,2025-07-13,1021,Tablet,Electronics,1,110.28,110.28,Credit Card,Houston,2025-07
+78450660,2025-03-04,1013,Laptop,Electronics,3,341.19,1023.5699999999999,Cash,Phoenix,2025-03
+19342801,2025-05-21,1025,Headphones,Accessories,4,951.81,3807.24,Debit Card,Houston,2025-05
+59945048,2024-07-29,1013,Headphones,Accessories,1,309.15,309.15,Online,New York,2024-07
+77292599,2024-11-07,1086,Mouse,Accessories,1,436.57,436.57,Credit Card,New York,2024-11
+94411683,2024-12-02,1057,Keyboard,Accessories,3,492.59,1477.77,Cash,New York,2024-12
+25475630,2025-04-01,1067,Shelf,Furniture,1,223.18,223.18,Online,Phoenix,2025-04
+62833639,2024-08-08,1043,Desk,Furniture,4,825.8,3303.2,Debit Card,Chicago,2024-08
+4266891,2024-12-19,1038,Smartphone,Electronics,1,612.99,612.99,Online,Los Angeles,2024-12
+58041468,2025-05-05,1039,Tablet,Electronics,1,56.45,56.45,Debit Card,Los Angeles,2025-05
+79025638,2024-07-26,1039,Tablet,Electronics,5,650.4,3252.0,Credit Card,Los Angeles,2024-07
+6486730,2025-06-24,1082,Laptop,Electronics,5,925.1,4625.5,Debit Card,New York,2025-06
+45366949,2024-08-12,1091,Smartphone,Electronics,3,243.48,730.4399999999999,Debit Card,New York,2024-08
+83394027,2025-05-18,1076,Headphones,Accessories,5,985.23,4926.15,Credit Card,Houston,2025-05
+70573152,2024-12-19,1062,Mouse,Accessories,1,717.74,717.74,Credit Card,Houston,2024-12
+74261642,2024-09-12,1064,Headphones,Accessories,1,412.51,412.51,Online,Houston,2024-09
+92393646,2024-12-29,1009,Shelf,Furniture,3,960.38,2881.14,Cash,New York,2024-12
+54777521,2024-10-22,1021,Smartphone,Electronics,2,506.49,1012.98,Online,Phoenix,2024-10
+17910699,2025-01-24,1022,Desk,Furniture,5,39.87,199.35,Cash,Phoenix,2025-01
+29129751,2024-09-26,1042,Chair,Furniture,3,517.15,1551.4499999999998,Cash,Los Angeles,2024-09
+92452244,2024-09-10,1044,Tablet,Electronics,4,70.97,283.88,Cash,Phoenix,2024-09
+98591305,2024-09-05,1040,Chair,Furniture,2,853.95,1707.9,Debit Card,Chicago,2024-09
+95312354,2025-04-07,1005,Tablet,Electronics,4,284.53,1138.12,Online,Chicago,2025-04
+31153195,2025-02-07,1030,Mouse,Accessories,4,480.07,1920.28,Cash,Los Angeles,2025-02
+63085969,2025-01-16,1029,Smartphone,Electronics,3,554.17,1662.5099999999998,Credit Card,Los Angeles,2025-01
+79489232,2024-10-16,1046,Shelf,Furniture,2,306.13,612.26,Cash,Phoenix,2024-10
+84078070,2025-05-24,1043,Headphones,Accessories,1,80.92,80.92,Credit Card,Phoenix,2025-05
+10376553,2025-02-02,1099,Laptop,Electronics,4,151.71,606.84,Cash,Phoenix,2025-02
+28931300,2024-11-25,1064,Desk,Furniture,4,811.07,3244.28,Cash,Chicago,2024-11
+36054749,2025-05-18,1093,Laptop,Electronics,2,435.82,871.64,Credit Card,Chicago,2025-05
+47117358,2025-06-10,1020,Headphones,Accessories,2,625.51,1251.02,Debit Card,Los Angeles,2025-06
+25475104,2025-04-21,1029,Keyboard,Accessories,4,870.94,3483.76,Cash,Phoenix,2025-04
+70042771,2024-10-21,1080,Laptop,Electronics,2,826.02,1652.04,Online,New York,2024-10
+63608045,2024-12-02,1051,Headphones,Accessories,5,649.33,3246.65,Credit Card,New York,2024-12
+72858301,2024-10-08,1015,Desk,Furniture,2,984.89,1969.78,Debit Card,Los Angeles,2024-10
+42706298,2024-11-13,1025,Laptop,Electronics,2,402.1,804.2,Cash,Phoenix,2024-11
+93339926,2025-03-10,1096,Smartphone,Electronics,1,612.99,612.99,Debit Card,Chicago,2025-03
+32834161,2025-02-01,1067,Desk,Furniture,1,228.13,228.13,Debit Card,Los Angeles,2025-02
+15830692,2024-08-04,1004,Smartphone,Electronics,1,714.4,714.4,Credit Card,Phoenix,2024-08
+88519593,2024-11-22,1023,Headphones,Accessories,3,822.52,2467.56,Credit Card,Los Angeles,2024-11
+95656335,2025-03-30,1075,Desk,Furniture,1,190.31,190.31,Cash,Chicago,2025-03
+62706391,2024-11-14,1076,Shelf,Furniture,2,386.53,773.06,Cash,Los Angeles,2024-11
+11260288,2025-03-14,1023,Headphones,Accessories,4,672.0,2688.0,Cash,Los Angeles,2025-03
+63548631,2025-01-05,1005,Laptop,Electronics,1,458.39,458.39,Cash,Houston,2025-01
+31916844,2025-03-24,1094,Smartphone,Electronics,1,852.53,852.53,Online,Phoenix,2025-03
+35623373,2024-09-06,1089,Tablet,Electronics,2,493.32,986.64,Credit Card,Phoenix,2024-09
+59546955,2025-05-08,1028,Keyboard,Accessories,4,909.2,3636.8,Cash,Phoenix,2025-05
+84502780,2024-10-07,1011,Shelf,Furniture,3,995.9,2987.7,Online,Houston,2024-10
+92852037,2024-11-03,1015,Laptop,Electronics,5,886.78,4433.9,Credit Card,Houston,2024-11
+1365351,2024-12-15,1023,Chair,Furniture,3,560.22,1680.66,Cash,Chicago,2024-12
+27332467,2025-06-12,1003,Desk,Furniture,4,511.76,2047.04,Online,New York,2025-06
+82298654,2025-05-08,1084,Chair,Furniture,1,100.17,100.17,Debit Card,Los Angeles,2025-05
+991933,2025-07-17,1050,Chair,Furniture,3,517.15,1551.4499999999998,Credit Card,Los Angeles,2025-07
+3469934,2024-10-24,1052,Headphones,Accessories,1,120.6,120.6,Debit Card,New York,2024-10
+65486498,2025-02-22,1045,Shelf,Furniture,5,609.76,3048.8,Credit Card,Houston,2025-02
+73139614,2025-02-20,1043,Keyboard,Accessories,3,492.59,1477.77,Credit Card,New York,2025-02
+7710131,2024-11-29,1074,Shelf,Furniture,1,999.88,999.88,Debit Card,New York,2024-11
+55416849,2024-09-25,1080,Mouse,Accessories,2,173.57,347.14,Cash,Chicago,2024-09
+41027868,2024-11-01,1025,Smartphone,Electronics,1,612.99,612.99,Credit Card,Houston,2024-11
+94199512,2024-12-14,1085,Laptop,Electronics,3,758.77,2276.31,Cash,Houston,2024-12
+10098011,2024-07-22,1049,Tablet,Electronics,5,160.01,800.05,Debit Card,Los Angeles,2024-07
+6932831,2024-09-19,1032,Shelf,Furniture,2,166.31,332.62,Credit Card,Phoenix,2024-09
+15120458,2025-05-30,1061,Smartphone,Electronics,3,787.89,2363.67,Online,New York,2025-05
+86363082,2025-04-29,1007,Chair,Furniture,5,349.21,1746.05,Cash,Los Angeles,2025-04
+91033864,2025-05-04,1008,Chair,Furniture,3,517.15,1551.4499999999998,Debit Card,Chicago,2025-05
+75316495,2024-09-19,1077,Keyboard,Accessories,4,897.01,3588.04,Online,Los Angeles,2024-09
+34172124,2025-03-19,1044,Chair,Furniture,4,945.55,3782.2,Online,Chicago,2025-03
+2071763,2024-09-07,1015,Mouse,Accessories,5,653.84,3269.2000000000003,Cash,New York,2024-09
+70318098,2025-01-28,1028,Smartphone,Electronics,1,612.99,612.99,Online,Chicago,2025-01
+47276147,2024-12-31,1079,Headphones,Accessories,3,252.95,758.8499999999999,Credit Card,Phoenix,2024-12
+3050309,2024-08-10,1021,Shelf,Furniture,2,427.81,855.62,Online,New York,2024-08
+97827412,2024-09-08,1018,Tablet,Electronics,2,807.78,1615.56,Cash,Houston,2024-09
+72894989,2025-05-01,1091,Desk,Furniture,4,298.13,1192.52,Credit Card,Chicago,2025-05
+40940014,2025-05-12,1038,Desk,Furniture,1,809.14,809.14,Cash,Chicago,2025-05
+49840773,2025-05-11,1070,Laptop,Electronics,5,244.42,1222.1,Debit Card,New York,2025-05
+37359126,2024-12-21,1031,Mouse,Accessories,2,406.87,813.74,Debit Card,Los Angeles,2024-12
+13035044,2024-07-21,1005,Keyboard,Accessories,3,56.44,169.32,Debit Card,Chicago,2024-07
+85259386,2025-01-20,1039,Laptop,Electronics,2,655.96,1311.92,Cash,Los Angeles,2025-01
+59520917,2025-07-16,1053,Laptop,Electronics,2,400.6,801.2,Online,Chicago,2025-07
+80448280,2025-01-15,1064,Keyboard,Accessories,3,492.24,1476.72,Online,Houston,2025-01
+98179725,2024-12-02,1087,Headphones,Accessories,5,966.73,4833.65,Cash,Chicago,2024-12
+12078141,2024-09-11,1088,Chair,Furniture,4,693.69,2774.76,Debit Card,Los Angeles,2024-09
+67501250,2025-02-19,1015,Tablet,Electronics,2,493.32,986.64,Debit Card,Houston,2025-02
+92618565,2024-09-26,1002,Headphones,Accessories,3,69.32,207.95999999999998,Cash,Los Angeles,2024-09
+38515958,2025-05-03,1043,Headphones,Accessories,3,633.49,1900.47,Cash,Houston,2025-05
+45230738,2024-12-10,1049,Tablet,Electronics,4,601.02,2404.08,Online,New York,2024-12
+1336849,2024-09-27,1030,Mouse,Accessories,2,732.3,1464.6,Online,Phoenix,2024-09
+22944412,2024-12-05,1100,Desk,Furniture,2,326.725,653.45,Debit Card,Phoenix,2024-12
+75197063,2025-05-24,1005,Tablet,Electronics,3,437.1,1311.3000000000002,Cash,Chicago,2025-05
+57756998,2025-03-28,1061,Shelf,Furniture,1,929.36,929.36,Online,New York,2025-03
+53682390,2025-01-12,1061,Keyboard,Accessories,4,444.5,1778.0,Online,Los Angeles,2025-01
+41698143,2025-03-21,1096,Smartphone,Electronics,1,612.99,612.99,Online,New York,2025-03
+29785971,2024-12-11,1022,Chair,Furniture,4,955.63,3822.52,Credit Card,Phoenix,2024-12
+81359769,2024-10-14,1080,Laptop,Electronics,3,778.12,2334.36,Credit Card,New York,2024-10
+93158848,2024-09-28,1004,Laptop,Electronics,5,386.5,1932.5,Credit Card,Chicago,2024-09
+18466782,2025-03-29,1051,Tablet,Electronics,2,951.74,1903.48,Credit Card,Houston,2025-03
+50358687,2024-09-01,1086,Mouse,Accessories,1,853.62,853.62,Cash,Los Angeles,2024-09
+65574553,2024-12-13,1087,Shelf,Furniture,2,427.81,855.62,Cash,New York,2024-12
+52311475,2024-07-22,1068,Shelf,Furniture,5,860.19,4300.950000000001,Cash,Houston,2024-07
+38187834,2025-07-15,1072,Tablet,Electronics,4,909.02,3636.08,Online,Houston,2025-07
+30842816,2025-02-07,1022,Laptop,Electronics,2,113.03,226.06,Credit Card,Houston,2025-02
+63185843,2024-10-22,1074,Headphones,Accessories,5,449.97,2249.8500000000004,Credit Card,Los Angeles,2024-10
+48101264,2024-11-15,1100,Chair,Furniture,3,840.28,2520.84,Cash,New York,2024-11
+92174672,2024-08-14,1052,Mouse,Accessories,4,150.64,602.56,Online,New York,2024-08
+25345582,2024-08-19,1076,Keyboard,Accessories,2,688.5,1377.0,Credit Card,Phoenix,2024-08
+24837057,2025-06-13,1074,Mouse,Accessories,2,466.14,932.28,Online,New York,2025-06
+55013529,2025-02-14,1020,Laptop,Electronics,2,435.82,871.64,Debit Card,New York,2025-02
+20964382,2024-08-04,1036,Desk,Furniture,3,326.34,979.02,Debit Card,Houston,2024-08
+75364854,2025-06-25,1028,Mouse,Accessories,4,480.07,1920.28,Debit Card,Los Angeles,2025-06
+59697879,2025-05-15,1089,Chair,Furniture,2,74.64,149.28,Credit Card,Houston,2025-05
+91120397,2025-06-27,1051,Chair,Furniture,5,218.7,1093.5,Debit Card,Houston,2025-06
+68660017,2025-06-21,1069,Laptop,Electronics,5,531.75,2658.75,Online,Houston,2025-06
+50758258,2025-04-30,1022,Headphones,Accessories,3,960.28,2880.84,Debit Card,Houston,2025-04
+50938353,2024-12-15,1010,Mouse,Accessories,2,420.45,840.9,Cash,New York,2024-12
+89083000,2024-08-19,1087,Shelf,Furniture,3,436.64,1309.92,Online,Houston,2024-08
+16894235,2025-04-11,1021,Tablet,Electronics,2,493.32,986.64,Credit Card,Phoenix,2025-04
+96308431,2025-03-10,1043,Headphones,Accessories,2,560.92,1121.84,Debit Card,Chicago,2025-03
+81656707,2024-08-15,1092,Mouse,Accessories,4,802.49,3209.96,Debit Card,Houston,2024-08
+55169912,2025-01-20,1094,Keyboard,Accessories,3,657.55,1972.6499999999999,Cash,Phoenix,2025-01
+54413054,2025-02-16,1057,Tablet,Electronics,2,80.81,161.62,Cash,New York,2025-02
+74077311,2024-09-09,1092,Shelf,Furniture,5,91.73,458.65000000000003,Cash,Phoenix,2024-09
+49724509,2024-09-21,1013,Mouse,Accessories,4,480.07,1920.28,Credit Card,Phoenix,2024-09
+12757510,2025-03-13,1014,Headphones,Accessories,2,546.85,1093.7,Online,Chicago,2025-03
+61682962,2025-04-17,1068,Chair,Furniture,4,36.19,144.76,Credit Card,Houston,2025-04
+40008080,2025-03-28,1034,Shelf,Furniture,2,83.46,166.92,Online,Houston,2025-03
+17895149,2025-05-07,1018,Desk,Furniture,1,473.4,473.4,Credit Card,Phoenix,2025-05
+48833516,2025-06-29,1029,Keyboard,Accessories,1,930.25,930.25,Cash,New York,2025-06
+31833073,2025-03-28,1005,Keyboard,Accessories,1,457.33,457.33,Online,Phoenix,2025-03
+30133518,2024-10-07,1002,Keyboard,Accessories,3,492.59,1477.77,Debit Card,Los Angeles,2024-10
+15746221,2025-07-06,1030,Smartphone,Electronics,2,699.22,1398.44,Cash,Los Angeles,2025-07
+46339140,2025-06-05,1038,Smartphone,Electronics,1,766.33,766.33,Cash,Phoenix,2025-06
+33772677,2025-06-27,1075,Shelf,Furniture,4,502.48,2009.92,Credit Card,New York,2025-06
+83631849,2025-03-27,1041,Keyboard,Accessories,4,231.11,924.44,Credit Card,Chicago,2025-03
+2105680,2025-01-24,1035,Chair,Furniture,1,871.89,871.89,Cash,Phoenix,2025-01
+74228249,2024-10-15,1050,Laptop,Electronics,2,141.57,283.14,Credit Card,Phoenix,2024-10
+79449878,2025-04-19,1065,Laptop,Electronics,1,901.39,901.39,Credit Card,Chicago,2025-04
+85451896,2024-11-04,1024,Mouse,Accessories,2,639.8,1279.6,Cash,Phoenix,2024-11
+82588915,2024-12-28,1052,Desk,Furniture,5,41.88,209.4,Credit Card,Phoenix,2024-12
+80166559,2025-05-24,1037,Smartphone,Electronics,5,389.39,1946.9499999999998,Online,Phoenix,2025-05
+56700466,2025-07-02,1051,Headphones,Accessories,1,969.01,969.01,Cash,Houston,2025-07
+95554907,2024-11-09,1077,Desk,Furniture,2,326.725,653.45,Cash,Houston,2024-11
+58685754,2025-03-23,1035,Keyboard,Accessories,3,192.19,576.5699999999999,Online,Los Angeles,2025-03
+94399523,2025-06-07,1078,Chair,Furniture,5,745.43,3727.1499999999996,Online,Houston,2025-06
+91470010,2025-04-18,1080,Desk,Furniture,2,326.725,653.45,Debit Card,Phoenix,2025-04
+63542363,2024-12-21,1049,Desk,Furniture,2,375.6,751.2,Online,Chicago,2024-12
+94091144,2025-07-03,1071,Headphones,Accessories,2,789.94,1579.88,Credit Card,Chicago,2025-07
+52414961,2024-10-29,1099,Headphones,Accessories,3,264.64,793.92,Cash,Phoenix,2024-10
+99380366,2024-09-02,1009,Shelf,Furniture,1,161.24,161.24,Online,Los Angeles,2024-09
+6314866,2025-02-07,1047,Laptop,Electronics,3,289.63,868.89,Cash,New York,2025-02
+98999385,2025-04-21,1062,Smartphone,Electronics,5,129.41,647.05,Cash,Houston,2025-04
+81514625,2025-04-03,1003,Chair,Furniture,1,291.3,291.3,Cash,New York,2025-04
+55613873,2024-09-28,1065,Tablet,Electronics,2,493.32,986.64,Cash,Chicago,2024-09
+41390955,2024-11-26,1039,Keyboard,Accessories,3,492.59,1477.77,Cash,Phoenix,2024-11
+74582167,2024-09-14,1068,Keyboard,Accessories,2,842.55,1685.1,Credit Card,New York,2024-09
+44743345,2024-12-29,1000,Headphones,Accessories,5,237.86,1189.3000000000002,Credit Card,New York,2024-12
+65168271,2025-05-23,1067,Tablet,Electronics,4,825.47,3301.88,Cash,Los Angeles,2025-05
+24779425,2025-04-11,1023,Tablet,Electronics,3,954.04,2862.12,Online,Los Angeles,2025-04
+57309774,2024-12-21,1058,Smartphone,Electronics,1,612.99,612.99,Cash,Phoenix,2024-12
+56803730,2024-12-13,1043,Desk,Furniture,2,766.93,1533.86,Cash,Los Angeles,2024-12
+97516811,2025-07-07,1042,Laptop,Electronics,2,990.18,1980.36,Online,Chicago,2025-07
+30940895,2025-03-10,1011,Keyboard,Accessories,1,603.84,603.84,Debit Card,Phoenix,2025-03
+68616410,2025-05-03,1038,Tablet,Electronics,2,407.5,815.0,Cash,Phoenix,2025-05
+96834060,2025-01-19,1062,Keyboard,Accessories,3,879.39,2638.17,Debit Card,New York,2025-01
+47931992,2025-03-25,1054,Chair,Furniture,2,966.74,1933.48,Cash,Phoenix,2025-03
+31312295,2025-04-02,1060,Shelf,Furniture,5,967.34,4836.7,Online,Phoenix,2025-04
+36797172,2025-03-05,1022,Desk,Furniture,4,381.39,1525.56,Cash,Houston,2025-03
+8042019,2025-05-22,1040,Desk,Furniture,4,97.65,390.6,Cash,Los Angeles,2025-05
+25197969,2025-03-28,1029,Laptop,Electronics,4,419.06,1676.24,Online,New York,2025-03
+35329749,2024-12-27,1099,Chair,Furniture,3,118.8,356.4,Debit Card,Chicago,2024-12
+93493345,2025-01-12,1050,Tablet,Electronics,3,989.2,2967.6000000000004,Debit Card,Los Angeles,2025-01
+255356,2024-07-21,1071,Chair,Furniture,3,517.15,1551.4499999999998,Cash,New York,2024-07
+93319584,2025-03-25,1066,Shelf,Furniture,5,814.59,4072.9500000000003,Credit Card,Chicago,2025-03
+28177487,2024-12-09,1072,Laptop,Electronics,2,435.82,871.64,Credit Card,Chicago,2024-12
+24417082,2025-06-24,1092,Laptop,Electronics,2,435.82,871.64,Credit Card,Phoenix,2025-06
+2236353,2025-01-30,1086,Tablet,Electronics,4,901.51,3606.04,Cash,New York,2025-01
+80137146,2025-02-24,1010,Smartphone,Electronics,1,612.99,612.99,Cash,Houston,2025-02
+9139404,2024-11-22,1084,Chair,Furniture,2,426.0,852.0,Credit Card,Phoenix,2024-11
+62519793,2025-04-01,1030,Mouse,Accessories,4,480.07,1920.28,Debit Card,Houston,2025-04
+26996806,2025-02-14,1031,Headphones,Accessories,1,591.555,591.555,Debit Card,Phoenix,2025-02
+43854059,2024-11-05,1023,Shelf,Furniture,3,988.75,2966.25,Credit Card,Chicago,2024-11
+8147820,2024-09-10,1008,Shelf,Furniture,1,152.97,152.97,Debit Card,Los Angeles,2024-09
+90276446,2025-07-01,1082,Shelf,Furniture,3,781.19,2343.57,Cash,Phoenix,2025-07
+13126230,2024-08-19,1023,Desk,Furniture,4,243.42,973.68,Online,Phoenix,2024-08
+70451191,2024-08-12,1011,Chair,Furniture,1,435.92,435.92,Credit Card,Los Angeles,2024-08
+35605805,2025-07-04,1051,Shelf,Furniture,4,372.21,1488.84,Cash,Phoenix,2025-07
+33040585,2024-09-29,1064,Chair,Furniture,5,591.54,2957.7,Cash,Houston,2024-09
+37560430,2024-09-15,1067,Chair,Furniture,4,720.74,2882.96,Cash,New York,2024-09
+507080,2025-03-16,1081,Laptop,Electronics,2,783.44,1566.88,Online,Chicago,2025-03
+65918494,2025-03-05,1024,Laptop,Electronics,2,435.82,871.64,Debit Card,Phoenix,2025-03
+85113954,2025-01-23,1031,Mouse,Accessories,4,480.07,1920.28,Online,Phoenix,2025-01
+12185436,2025-01-04,1078,Tablet,Electronics,2,831.0,1662.0,Credit Card,Houston,2025-01
+34816387,2024-12-24,1036,Shelf,Furniture,3,652.32,1956.96,Credit Card,Phoenix,2024-12
+4350415,2024-10-01,1001,Desk,Furniture,3,64.38,193.14,Credit Card,Phoenix,2024-10
+40214535,2025-07-15,1008,Shelf,Furniture,2,427.81,855.62,Cash,Phoenix,2025-07
+29565016,2025-02-17,1067,Mouse,Accessories,2,791.58,1583.16,Online,Houston,2025-02
+8770455,2024-10-03,1077,Headphones,Accessories,1,591.555,591.555,Cash,Houston,2024-10
+81103171,2024-08-09,1043,Shelf,Furniture,5,427.81,2139.05,Cash,Chicago,2024-08
+33386928,2025-06-10,1016,Headphones,Accessories,2,213.93,427.86,Cash,New York,2025-06
+18219661,2024-11-02,1069,Tablet,Electronics,1,671.73,671.73,Cash,Houston,2024-11
+45691737,2024-08-23,1001,Keyboard,Accessories,2,862.13,1724.26,Credit Card,Phoenix,2024-08
+17857857,2025-02-11,1049,Mouse,Accessories,3,418.7,1256.1,Cash,Houston,2025-02
+13627492,2024-09-26,1090,Headphones,Accessories,5,414.56,2072.8,Online,Phoenix,2024-09
+87937343,2025-06-24,1069,Shelf,Furniture,4,203.15,812.6,Debit Card,New York,2025-06
+40676296,2024-11-25,1096,Chair,Furniture,5,894.13,4470.65,Cash,Los Angeles,2024-11
+38949869,2025-01-28,1077,Mouse,Accessories,1,836.95,836.95,Cash,Los Angeles,2025-01
+12745531,2025-05-23,1013,Headphones,Accessories,3,892.09,2676.27,Online,New York,2025-05
+94195514,2025-05-30,1015,Desk,Furniture,5,244.69,1223.45,Debit Card,Houston,2025-05
+93029483,2024-11-05,1093,Smartphone,Electronics,3,263.65,790.9499999999999,Debit Card,Phoenix,2024-11
+67570249,2025-03-01,1045,Mouse,Accessories,4,313.13,1252.52,Cash,Phoenix,2025-03
+11412731,2024-08-07,1069,Shelf,Furniture,2,427.81,855.62,Credit Card,Houston,2024-08
+2458786,2025-03-22,1078,Laptop,Electronics,4,897.34,3589.36,Online,Houston,2025-03
+78640092,2025-06-21,1052,Chair,Furniture,3,36.33,108.99,Credit Card,New York,2025-06
+45048197,2025-03-08,1094,Shelf,Furniture,3,409.72,1229.16,Debit Card,Chicago,2025-03
+95671352,2025-05-19,1024,Desk,Furniture,5,932.86,4664.3,Credit Card,Phoenix,2025-05
+96724743,2025-02-06,1086,Smartphone,Electronics,2,664.49,1328.98,Cash,New York,2025-02
+21823190,2024-12-29,1059,Smartphone,Electronics,1,415.18,415.18,Credit Card,Houston,2024-12
+71332659,2025-03-28,1056,Laptop,Electronics,2,777.62,1555.24,Credit Card,New York,2025-03
+67540631,2025-06-03,1001,Mouse,Accessories,4,480.07,1920.28,Cash,Chicago,2025-06
+76362248,2025-01-09,1093,Shelf,Furniture,2,944.46,1888.92,Cash,New York,2025-01
+74072286,2024-08-27,1054,Smartphone,Electronics,4,53.55,214.2,Cash,Los Angeles,2024-08
+81895670,2025-01-30,1033,Chair,Furniture,3,536.14,1608.42,Cash,Phoenix,2025-01
+96657973,2025-07-06,1006,Mouse,Accessories,4,470.48,1881.92,Cash,Chicago,2025-07
+96509845,2025-03-10,1030,Chair,Furniture,5,364.76,1823.8,Cash,Los Angeles,2025-03
+45219610,2025-05-06,1082,Laptop,Electronics,4,280.96,1123.84,Cash,New York,2025-05
+52748677,2025-03-16,1013,Chair,Furniture,2,231.18,462.36,Cash,Houston,2025-03
+15329097,2024-09-29,1060,Laptop,Electronics,2,754.25,1508.5,Cash,Chicago,2024-09
+27345177,2025-01-27,1100,Tablet,Electronics,2,652.51,1305.02,Debit Card,New York,2025-01
+97446781,2025-03-14,1066,Mouse,Accessories,4,480.07,1920.28,Cash,Houston,2025-03
+15763808,2025-01-15,1017,Chair,Furniture,5,914.35,4571.75,Online,Houston,2025-01
+38449208,2024-11-10,1087,Desk,Furniture,1,142.66,142.66,Cash,Los Angeles,2024-11
+8810304,2025-03-19,1034,Tablet,Electronics,2,366.62,733.24,Debit Card,Houston,2025-03
+9554948,2025-04-13,1076,Keyboard,Accessories,2,466.84,933.68,Online,Los Angeles,2025-04
+1101911,2024-07-27,1035,Mouse,Accessories,4,289.73,1158.92,Debit Card,New York,2024-07
+14907845,2024-09-19,1030,Chair,Furniture,1,482.87,482.87,Credit Card,Phoenix,2024-09
+49966701,2024-10-24,1029,Headphones,Accessories,2,187.12,374.24,Cash,Los Angeles,2024-10
+41964132,2025-05-05,1029,Keyboard,Accessories,4,767.93,3071.72,Cash,Los Angeles,2025-05
+85414228,2024-12-26,1019,Keyboard,Accessories,4,405.24,1620.96,Cash,Houston,2024-12
+41396452,2025-03-16,1075,Laptop,Electronics,2,435.82,871.64,Debit Card,Chicago,2025-03
+14507656,2024-08-26,1084,Shelf,Furniture,3,422.59,1267.77,Cash,Phoenix,2024-08
+55102490,2025-02-21,1088,Tablet,Electronics,2,306.24,612.48,Cash,Houston,2025-02
+14066658,2024-12-30,1025,Smartphone,Electronics,4,608.51,2434.04,Cash,Los Angeles,2024-12
+1167344,2024-09-10,1067,Mouse,Accessories,4,480.07,1920.28,Cash,New York,2024-09
+19304649,2024-12-30,1019,Tablet,Electronics,4,365.52,1462.08,Debit Card,Phoenix,2024-12
+57570877,2024-07-28,1053,Laptop,Electronics,4,983.66,3934.64,Cash,Chicago,2024-07
+95669113,2025-02-09,1076,Mouse,Accessories,4,492.11,1968.44,Online,Los Angeles,2025-02
+13566951,2024-08-16,1043,Desk,Furniture,5,59.98,299.9,Credit Card,Los Angeles,2024-08
+52227417,2024-07-24,1029,Laptop,Electronics,3,915.81,2747.43,Cash,Houston,2024-07
+57640617,2025-05-17,1020,Headphones,Accessories,1,787.27,787.27,Cash,New York,2025-05
+82555795,2025-01-23,1028,Smartphone,Electronics,4,34.59,138.36,Online,Phoenix,2025-01
+49654073,2024-09-20,1003,Smartphone,Electronics,1,612.99,612.99,Cash,New York,2024-09
+26943282,2024-10-17,1082,Keyboard,Accessories,2,60.97,121.94,Credit Card,New York,2024-10
+39993656,2025-06-20,1075,Keyboard,Accessories,1,673.88,673.88,Cash,Houston,2025-06
+82017965,2024-10-01,1018,Mouse,Accessories,1,387.32,387.32,Online,Los Angeles,2024-10
+35284451,2024-09-13,1083,Shelf,Furniture,5,49.83,249.14999999999998,Debit Card,New York,2024-09
+10688588,2025-07-07,1004,Laptop,Electronics,4,393.38,1573.52,Cash,Chicago,2025-07
+86810555,2025-01-14,1048,Tablet,Electronics,2,493.32,986.64,Credit Card,Houston,2025-01
+7607004,2024-10-25,1004,Desk,Furniture,5,275.2,1376.0,Cash,Chicago,2024-10
+36143924,2025-07-04,1026,Tablet,Electronics,3,599.16,1797.48,Online,Phoenix,2025-07
+64374970,2024-09-08,1085,Smartphone,Electronics,5,433.19,2165.95,Cash,Los Angeles,2024-09
+91197863,2025-04-20,1045,Chair,Furniture,1,297.86,297.86,Cash,Phoenix,2025-04
+66476160,2025-04-04,1041,Tablet,Electronics,1,110.5,110.5,Online,Los Angeles,2025-04
+61422667,2025-04-30,1018,Keyboard,Accessories,1,702.06,702.06,Cash,Chicago,2025-04
+93524575,2024-10-05,1084,Tablet,Electronics,5,899.13,4495.65,Credit Card,New York,2024-10
+37180454,2025-07-19,1079,Headphones,Accessories,1,906.42,906.42,Cash,Houston,2025-07
+5751815,2024-11-09,1085,Mouse,Accessories,3,514.91,1544.73,Cash,Chicago,2024-11
+49843866,2024-10-29,1100,Mouse,Accessories,2,433.25,866.5,Cash,New York,2024-10
+95703527,2024-09-05,1033,Mouse,Accessories,5,509.15,2545.75,Cash,New York,2024-09
+68532796,2024-09-23,1011,Desk,Furniture,2,97.61,195.22,Cash,New York,2024-09
+48254694,2025-02-19,1034,Tablet,Electronics,4,770.73,3082.92,Online,Houston,2025-02
+64977430,2024-10-21,1024,Smartphone,Electronics,1,172.71,172.71,Debit Card,Phoenix,2024-10
+96542118,2025-05-20,1041,Desk,Furniture,4,723.41,2893.64,Cash,New York,2025-05
+49123661,2024-12-09,1000,Smartphone,Electronics,3,339.24,1017.72,Credit Card,New York,2024-12
+45202261,2024-12-12,1089,Tablet,Electronics,2,116.61,233.22,Debit Card,Houston,2024-12
+45077456,2025-01-19,1005,Laptop,Electronics,5,341.03,1705.1499999999999,Cash,Los Angeles,2025-01
+97844891,2025-01-23,1002,Headphones,Accessories,4,543.52,2174.08,Debit Card,Phoenix,2025-01
+15655172,2024-12-17,1033,Keyboard,Accessories,1,181.04,181.04,Cash,Los Angeles,2024-12
+13931025,2024-09-12,1046,Shelf,Furniture,4,342.71,1370.84,Cash,Los Angeles,2024-09
+57894522,2025-01-07,1029,Chair,Furniture,3,754.67,2264.0099999999998,Credit Card,Los Angeles,2025-01
+70726800,2025-05-12,1051,Chair,Furniture,2,313.52,627.04,Debit Card,Houston,2025-05
+48614504,2025-03-20,1029,Smartphone,Electronics,3,651.56,1954.6799999999998,Online,Los Angeles,2025-03
+32002478,2025-03-01,1026,Tablet,Electronics,2,959.94,1919.88,Debit Card,Los Angeles,2025-03
+97151470,2024-08-31,1048,Tablet,Electronics,5,896.14,4480.7,Credit Card,Los Angeles,2024-08
+98893461,2025-01-05,1070,Smartphone,Electronics,1,717.55,717.55,Cash,New York,2025-01
+41888735,2025-05-04,1025,Desk,Furniture,4,626.69,2506.76,Credit Card,Houston,2025-05
+77731807,2025-05-01,1026,Tablet,Electronics,4,207.19,828.76,Credit Card,Phoenix,2025-05
+27303290,2024-10-27,1033,Smartphone,Electronics,4,924.97,3699.88,Cash,New York,2024-10
+58452011,2024-11-26,1062,Headphones,Accessories,3,976.01,2928.0299999999997,Debit Card,Houston,2024-11
+13122294,2024-12-11,1010,Tablet,Electronics,2,860.67,1721.34,Credit Card,Los Angeles,2024-12
+90990939,2024-10-25,1096,Tablet,Electronics,1,752.1,752.1,Credit Card,Chicago,2024-10
+78210837,2024-11-30,1072,Chair,Furniture,3,232.9,698.7,Debit Card,Los Angeles,2024-11
+79887779,2024-11-14,1071,Headphones,Accessories,5,629.56,3147.7999999999997,Credit Card,Los Angeles,2024-11
+47220232,2025-06-07,1031,Chair,Furniture,1,13.99,13.99,Cash,Phoenix,2025-06
+92626706,2025-04-06,1015,Smartphone,Electronics,1,612.99,612.99,Credit Card,Los Angeles,2025-04
+63912074,2024-09-25,1028,Tablet,Electronics,1,691.16,691.16,Debit Card,Los Angeles,2024-09
+22980212,2025-06-01,1059,Tablet,Electronics,1,547.99,547.99,Cash,New York,2025-06
+77337948,2024-09-06,1035,Chair,Furniture,3,254.51,763.53,Cash,Los Angeles,2024-09
+65743959,2024-07-31,1009,Desk,Furniture,3,146.33,438.99,Online,New York,2024-07
+26948249,2024-11-21,1028,Tablet,Electronics,1,409.9,409.9,Credit Card,Phoenix,2024-11
+20236595,2025-05-13,1015,Chair,Furniture,5,517.15,2585.75,Credit Card,Los Angeles,2025-05
+34548042,2025-04-22,1026,Mouse,Accessories,4,27.33,109.32,Cash,New York,2025-04
+18703085,2024-10-18,1045,Desk,Furniture,2,793.17,1586.34,Cash,Los Angeles,2024-10
+93584258,2025-03-25,1063,Desk,Furniture,3,501.45,1504.35,Cash,New York,2025-03
+16603547,2024-12-11,1014,Keyboard,Accessories,2,669.1,1338.2,Credit Card,New York,2024-12
+99147013,2025-04-08,1059,Chair,Furniture,2,386.15,772.3,Cash,Chicago,2025-04
+67727377,2024-10-08,1082,Mouse,Accessories,4,480.07,1920.28,Cash,Houston,2024-10
+41752814,2024-12-11,1043,Shelf,Furniture,1,20.81,20.81,Credit Card,Chicago,2024-12
+75000752,2025-07-06,1094,Headphones,Accessories,1,164.12,164.12,Debit Card,Chicago,2025-07
+29017843,2024-08-20,1021,Desk,Furniture,3,144.98,434.93999999999994,Debit Card,Chicago,2024-08
+20249120,2024-10-28,1021,Mouse,Accessories,1,103.36,103.36,Cash,Houston,2024-10
+47595392,2025-01-22,1031,Shelf,Furniture,2,641.92,1283.84,Online,Phoenix,2025-01
+82775254,2025-04-15,1083,Chair,Furniture,1,298.23,298.23,Cash,Los Angeles,2025-04
+38732980,2024-09-17,1100,Shelf,Furniture,2,427.81,855.62,Credit Card,Phoenix,2024-09
+80085041,2024-11-07,1034,Chair,Furniture,1,280.82,280.82,Cash,Houston,2024-11
+72443613,2025-05-24,1009,Desk,Furniture,2,326.725,653.45,Cash,Houston,2025-05
+51134105,2025-02-14,1070,Chair,Furniture,3,777.72,2333.16,Cash,Houston,2025-02
+29584864,2025-03-30,1058,Keyboard,Accessories,3,620.2,1860.6000000000001,Online,Houston,2025-03
+82505523,2024-10-10,1059,Desk,Furniture,2,326.725,653.45,Credit Card,Houston,2024-10
+33395814,2024-12-02,1041,Keyboard,Accessories,3,923.59,2770.77,Cash,Chicago,2024-12
+53483355,2025-07-15,1080,Shelf,Furniture,3,512.87,1538.6100000000001,Online,Phoenix,2025-07
+56222135,2025-05-20,1025,Tablet,Electronics,2,493.32,986.64,Online,Houston,2025-05
+57953212,2025-02-15,1046,Headphones,Accessories,1,591.555,591.555,Credit Card,Phoenix,2025-02
+93666879,2025-04-23,1079,Headphones,Accessories,1,64.24,64.24,Cash,Phoenix,2025-04
+19655987,2025-01-22,1054,Tablet,Electronics,5,931.38,4656.9,Credit Card,New York,2025-01
+50821198,2024-08-29,1063,Headphones,Accessories,4,843.74,3374.96,Debit Card,New York,2024-08
+68363383,2025-01-10,1012,Smartphone,Electronics,1,612.99,612.99,Cash,Chicago,2025-01
+6408169,2024-07-31,1043,Smartphone,Electronics,3,970.94,2912.82,Credit Card,New York,2024-07
+20577308,2024-07-20,1072,Chair,Furniture,2,985.75,1971.5,Cash,Houston,2024-07
+42133193,2024-10-10,1095,Keyboard,Accessories,1,74.11,74.11,Cash,Phoenix,2024-10
+9101487,2024-09-12,1100,Tablet,Electronics,4,16.52,66.08,Online,New York,2024-09
+92294110,2025-05-01,1079,Shelf,Furniture,2,269.75,539.5,Credit Card,Phoenix,2025-05
+82772963,2024-12-26,1025,Smartphone,Electronics,5,304.35,1521.75,Online,Houston,2024-12
+384995,2024-12-17,1037,Laptop,Electronics,3,149.71,449.13,Credit Card,New York,2024-12
+70974232,2025-04-27,1062,Tablet,Electronics,2,866.66,1733.32,Online,Chicago,2025-04
+1612585,2024-12-23,1077,Keyboard,Accessories,3,221.6,664.8,Online,Houston,2024-12
+53029805,2024-12-25,1057,Smartphone,Electronics,1,612.99,612.99,Debit Card,New York,2024-12
+77417008,2024-09-22,1062,Chair,Furniture,4,909.06,3636.24,Online,Houston,2024-09
+77460950,2024-08-15,1072,Tablet,Electronics,1,145.65,145.65,Online,Los Angeles,2024-08
+9865129,2025-03-23,1095,Keyboard,Accessories,1,79.01,79.01,Cash,Houston,2025-03
+83960871,2025-01-01,1025,Headphones,Accessories,1,591.555,591.555,Cash,Los Angeles,2025-01
+68743598,2025-02-13,1044,Headphones,Accessories,3,626.45,1879.3500000000001,Debit Card,Houston,2025-02
+89194577,2025-01-08,1086,Smartphone,Electronics,5,355.13,1775.65,Online,Houston,2025-01
+24948067,2025-07-05,1061,Headphones,Accessories,2,236.26,472.52,Cash,Chicago,2025-07
+28052432,2024-08-12,1080,Tablet,Electronics,4,994.23,3976.92,Cash,New York,2024-08
+28857754,2024-09-05,1085,Desk,Furniture,5,67.1,335.5,Cash,Houston,2024-09
+83524349,2025-01-08,1018,Desk,Furniture,1,776.25,776.25,Cash,New York,2025-01
+85613645,2024-08-07,1081,Desk,Furniture,1,346.85,346.85,Debit Card,Los Angeles,2024-08
+46584366,2024-11-02,1010,Keyboard,Accessories,4,212.02,848.08,Cash,New York,2024-11
+37852931,2025-03-10,1008,Shelf,Furniture,2,427.81,855.62,Credit Card,New York,2025-03
+22824035,2024-09-25,1080,Chair,Furniture,3,237.05,711.1500000000001,Cash,Chicago,2024-09
+6525965,2024-12-30,1037,Smartphone,Electronics,5,682.48,3412.4,Cash,Chicago,2024-12
+1501476,2024-11-25,1091,Tablet,Electronics,2,695.5,1391.0,Cash,Los Angeles,2024-11
+11218128,2025-03-19,1070,Keyboard,Accessories,2,193.18,386.36,Credit Card,New York,2025-03
+96168073,2024-07-21,1050,Headphones,Accessories,4,509.03,2036.12,Online,Chicago,2024-07
+3818121,2025-07-04,1041,Laptop,Electronics,2,22.97,45.94,Cash,Los Angeles,2025-07
+47440388,2025-06-20,1055,Desk,Furniture,2,118.07,236.14,Online,Houston,2025-06
+94618594,2025-03-06,1046,Smartphone,Electronics,1,19.58,19.58,Credit Card,Phoenix,2025-03
+27437605,2024-07-28,1065,Shelf,Furniture,2,11.74,23.48,Credit Card,Phoenix,2024-07
+90356322,2025-06-18,1016,Keyboard,Accessories,2,909.45,1818.9,Cash,New York,2025-06
+67616640,2024-10-26,1041,Shelf,Furniture,5,506.12,2530.6,Cash,Chicago,2024-10
+27288542,2025-04-18,1021,Chair,Furniture,4,999.19,3996.76,Cash,Houston,2025-04
+23443235,2025-01-21,1045,Tablet,Electronics,4,16.37,65.48,Cash,New York,2025-01
+83896576,2024-09-30,1031,Headphones,Accessories,1,209.22,209.22,Credit Card,Phoenix,2024-09
+71726823,2024-11-22,1055,Chair,Furniture,1,832.8,832.8,Debit Card,Chicago,2024-11
+48114479,2025-06-12,1091,Smartphone,Electronics,1,372.69,372.69,Credit Card,Los Angeles,2025-06
+94414523,2025-06-11,1005,Laptop,Electronics,2,435.82,871.64,Cash,Chicago,2025-06
+4524694,2024-11-10,1088,Keyboard,Accessories,3,621.7,1865.1000000000001,Online,Houston,2024-11
+47572959,2024-09-11,1004,Chair,Furniture,3,517.15,1551.4499999999998,Cash,Chicago,2024-09
+85571822,2025-03-17,1100,Smartphone,Electronics,3,775.22,2325.66,Cash,New York,2025-03
+68928025,2025-05-19,1052,Desk,Furniture,1,220.02,220.02,Cash,New York,2025-05
+48381789,2024-10-05,1063,Laptop,Electronics,4,179.72,718.88,Cash,Houston,2024-10
+11319573,2025-01-05,1086,Desk,Furniture,1,638.64,638.64,Debit Card,Houston,2025-01
+3287019,2025-02-09,1040,Shelf,Furniture,2,822.19,1644.38,Debit Card,Houston,2025-02
+42298731,2024-08-21,1079,Keyboard,Accessories,5,341.1,1705.5,Credit Card,New York,2024-08
+29534661,2024-11-21,1062,Smartphone,Electronics,1,197.42,197.42,Credit Card,Houston,2024-11
+86829182,2024-11-21,1055,Laptop,Electronics,4,435.82,1743.28,Online,New York,2024-11
+69921537,2025-06-19,1074,Desk,Furniture,2,144.92,289.84,Cash,New York,2025-06
+43677528,2025-01-20,1012,Chair,Furniture,3,122.2,366.6,Debit Card,New York,2025-01
+55034623,2025-05-12,1050,Chair,Furniture,3,67.54,202.62,Cash,Los Angeles,2025-05
+32385342,2024-10-27,1031,Smartphone,Electronics,5,640.1,3200.5,Cash,Phoenix,2024-10
+71877143,2025-06-26,1071,Keyboard,Accessories,5,599.41,2997.0499999999997,Online,Houston,2025-06
+58267929,2024-08-14,1030,Tablet,Electronics,3,469.15,1407.4499999999998,Online,Los Angeles,2024-08
+10523940,2024-12-13,1068,Keyboard,Accessories,5,561.57,2807.8500000000004,Cash,Houston,2024-12
+30768710,2024-09-03,1022,Headphones,Accessories,4,822.1,3288.4,Online,New York,2024-09
+84777591,2024-09-15,1024,Headphones,Accessories,5,306.72,1533.6000000000001,Credit Card,Phoenix,2024-09
+96029381,2025-05-30,1034,Desk,Furniture,2,326.725,653.45,Debit Card,Houston,2025-05
+30981188,2025-07-01,1028,Keyboard,Accessories,2,44.51,89.02,Cash,Los Angeles,2025-07
+76607479,2025-06-16,1031,Mouse,Accessories,2,119.66,239.32,Online,Los Angeles,2025-06
+12218806,2025-02-22,1084,Chair,Furniture,5,137.87,689.35,Online,Phoenix,2025-02
+19434360,2025-06-01,1087,Desk,Furniture,2,635.87,1271.74,Credit Card,Houston,2025-06
+34535875,2025-06-28,1035,Tablet,Electronics,2,928.13,1856.26,Cash,Chicago,2025-06
+12021017,2024-10-07,1001,Laptop,Electronics,1,232.17,232.17,Cash,Los Angeles,2024-10
+6682446,2025-05-27,1077,Headphones,Accessories,2,586.56,1173.12,Cash,Los Angeles,2025-05
+54972650,2024-11-11,1023,Desk,Furniture,5,923.83,4619.150000000001,Cash,Phoenix,2024-11
+1741537,2024-09-22,1076,Desk,Furniture,2,731.13,1462.26,Credit Card,New York,2024-09
+14698002,2024-11-17,1003,Laptop,Electronics,2,435.82,871.64,Cash,New York,2024-11
+57264110,2024-08-19,1099,Laptop,Electronics,4,499.67,1998.68,Debit Card,Houston,2024-08
+14444203,2025-05-24,1028,Shelf,Furniture,2,313.36,626.72,Cash,Los Angeles,2025-05
+16149496,2025-05-13,1056,Headphones,Accessories,4,785.52,3142.08,Credit Card,Los Angeles,2025-05
+40064550,2024-11-13,1054,Laptop,Electronics,5,208.11,1040.5500000000002,Credit Card,Houston,2024-11
+73276722,2024-12-14,1046,Smartphone,Electronics,5,184.99,924.95,Online,Phoenix,2024-12
+92344853,2024-12-18,1090,Desk,Furniture,5,355.09,1775.4499999999998,Credit Card,New York,2024-12
+11608172,2025-02-21,1019,Shelf,Furniture,2,427.81,855.62,Debit Card,Phoenix,2025-02
+25467901,2024-08-17,1034,Smartphone,Electronics,1,839.54,839.54,Credit Card,Los Angeles,2024-08
+64105949,2025-02-08,1095,Chair,Furniture,3,517.15,1551.4499999999998,Cash,Phoenix,2025-02
+25236729,2025-01-29,1017,Keyboard,Accessories,3,492.59,1477.77,Cash,Houston,2025-01
+68580193,2024-09-04,1062,Chair,Furniture,3,551.19,1653.5700000000002,Debit Card,Houston,2024-09
+49822441,2024-10-16,1024,Chair,Furniture,3,517.15,1551.4499999999998,Cash,Houston,2024-10
+14985010,2025-03-27,1081,Keyboard,Accessories,2,343.82,687.64,Credit Card,Phoenix,2025-03
+26631271,2024-08-24,1094,Tablet,Electronics,3,419.85,1259.5500000000002,Online,Chicago,2024-08
+39174956,2025-06-28,1046,Desk,Furniture,2,327.11,654.22,Cash,Chicago,2025-06
+70748604,2025-05-13,1027,Desk,Furniture,1,528.25,528.25,Debit Card,Chicago,2025-05
+89028674,2024-08-05,1012,Tablet,Electronics,4,201.16,804.64,Cash,Chicago,2024-08
+77051981,2025-03-29,1072,Mouse,Accessories,4,733.33,2933.32,Online,New York,2025-03
+28407805,2024-12-14,1097,Desk,Furniture,2,125.38,250.76,Online,Chicago,2024-12
+81928293,2024-11-04,1093,Keyboard,Accessories,3,143.14,429.41999999999996,Credit Card,New York,2024-11
+35656722,2025-04-16,1089,Keyboard,Accessories,1,130.68,130.68,Online,Chicago,2025-04
+45130557,2025-05-31,1026,Desk,Furniture,4,17.22,68.88,Online,New York,2025-05
+3937860,2024-09-04,1015,Mouse,Accessories,3,593.85,1781.5500000000002,Cash,Phoenix,2024-09
+83259685,2024-08-14,1009,Desk,Furniture,2,326.725,653.45,Cash,Los Angeles,2024-08
+11213208,2025-05-26,1087,Smartphone,Electronics,3,157.83,473.49,Online,Phoenix,2025-05
+92544987,2024-08-09,1033,Mouse,Accessories,4,480.07,1920.28,Cash,New York,2024-08
+51992040,2025-01-14,1065,Headphones,Accessories,2,832.33,1664.66,Cash,Chicago,2025-01
+28063766,2025-05-20,1095,Mouse,Accessories,5,316.36,1581.8000000000002,Cash,Houston,2025-05
+59885856,2024-11-22,1084,Shelf,Furniture,3,301.74,905.22,Cash,Phoenix,2024-11
+28118138,2024-11-17,1079,Tablet,Electronics,5,867.54,4337.7,Cash,Chicago,2024-11
+49601060,2024-09-13,1023,Chair,Furniture,4,671.86,2687.44,Credit Card,Los Angeles,2024-09
+1885439,2025-06-11,1018,Desk,Furniture,5,275.27,1376.35,Credit Card,New York,2025-06
+37043780,2025-06-05,1062,Shelf,Furniture,2,427.81,855.62,Online,Houston,2025-06
+19852409,2025-02-19,1092,Keyboard,Accessories,5,109.7,548.5,Cash,Phoenix,2025-02
+22639820,2025-06-15,1099,Laptop,Electronics,4,658.18,2632.72,Credit Card,Phoenix,2025-06
+46828385,2024-07-30,1088,Smartphone,Electronics,2,648.24,1296.48,Credit Card,Houston,2024-07
+90091056,2024-08-07,1013,Mouse,Accessories,5,205.2,1026.0,Cash,Chicago,2024-08
+74334995,2024-11-01,1048,Keyboard,Accessories,3,492.59,1477.77,Debit Card,Phoenix,2024-11
+39072382,2025-05-31,1006,Mouse,Accessories,4,558.87,2235.48,Online,New York,2025-05
+36407392,2024-12-18,1036,Tablet,Electronics,2,410.54,821.08,Debit Card,Chicago,2024-12
+64747408,2025-07-12,1080,Tablet,Electronics,2,301.59,603.18,Credit Card,Phoenix,2025-07
+32049077,2025-02-18,1047,Keyboard,Accessories,3,492.59,1477.77,Cash,Phoenix,2025-02
+47534810,2025-02-02,1081,Smartphone,Electronics,1,612.99,612.99,Online,Chicago,2025-02
+11067948,2024-11-19,1037,Mouse,Accessories,5,711.42,3557.1,Online,New York,2024-11
+41477410,2025-06-24,1065,Mouse,Accessories,4,480.07,1920.28,Debit Card,Chicago,2025-06
+65673454,2025-02-07,1051,Tablet,Electronics,3,172.26,516.78,Online,New York,2025-02
+49627985,2024-11-27,1089,Headphones,Accessories,3,900.52,2701.56,Credit Card,New York,2024-11
+70203004,2024-08-26,1049,Chair,Furniture,5,675.24,3376.2,Online,Chicago,2024-08
+70899924,2024-07-29,1065,Chair,Furniture,1,178.58,178.58,Cash,Houston,2024-07
+51816063,2024-09-28,1017,Mouse,Accessories,1,957.79,957.79,Cash,Chicago,2024-09
+86303743,2024-12-02,1054,Mouse,Accessories,5,714.48,3572.4,Cash,New York,2024-12
+18962826,2025-04-05,1090,Desk,Furniture,4,992.93,3971.72,Online,Phoenix,2025-04
+99319410,2024-10-02,1023,Shelf,Furniture,1,387.76,387.76,Cash,Phoenix,2024-10
+2810232,2025-04-07,1033,Headphones,Accessories,4,450.88,1803.52,Cash,New York,2025-04
+51223946,2025-04-20,1036,Shelf,Furniture,5,933.12,4665.6,Cash,Chicago,2025-04
+51668723,2025-06-10,1064,Keyboard,Accessories,3,234.87,704.61,Cash,Phoenix,2025-06
+55559003,2024-09-05,1058,Tablet,Electronics,5,756.35,3781.75,Online,Houston,2024-09
